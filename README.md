@@ -1,2 +1,2 @@
 # Pet_Website
-Website for pet lover
+Website for people who love pets
